@@ -7,4 +7,5 @@ Pots trobar els TIL [al Wiki del repo](https://github.com/UPC/til/wiki).
 
 # Contribucions
 
-Obre una issue amb el teu TIL, i l'afegirem al wiki.
+* Obre una issue amb el teu TIL, i l'afegirem al wiki.
+* També s'afegiran els TIL que vagin apareixent al canal #til de l'espai UPCTIC de l'Slack.
