@@ -3,7 +3,7 @@ TIL: «Today I learned» de la comunitat UPC
 
 Has après quelcom útil o interessant per a la feina? Creus que pot ser útil per als teus companys?
 
-Pots trobar els TIL [al Wiki del repo](https://github.com/UPC/til/wiki).
+Pots trobar els TIL [al Wiki del repo](https://github.com/UPC/til/wiki/TIL).
 
 # Contribucions
 
